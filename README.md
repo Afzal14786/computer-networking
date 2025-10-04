@@ -53,7 +53,7 @@ You are downloading an image in **your computer** form a **server** . The image 
 
 ### Why Data Packets Are Important ?  
 
-Data packets are important because they they simplyfy and speed up the process of communication . By breaking down the data into small packets, it make the transmission more efficient by giving each network in **TCP/IP** to allow data to flow into different bandwidths, send via multiple routes, fix and resend paused or lossed data.  
+Data packets are important because they simplyfy and speed up the process of communication . By breaking down the data into small packets, it make the transmission more efficient by giving each network in **TCP/IP** to allow data to flow into different bandwidths, send via multiple routes, fix and resend paused or lossed data.  
 
 Without packets, the internet's user experiance would be slow . The packets allow faster speed by breaking down the data into small packets and sending the data into different routes over the internet towards the destination .  
 
